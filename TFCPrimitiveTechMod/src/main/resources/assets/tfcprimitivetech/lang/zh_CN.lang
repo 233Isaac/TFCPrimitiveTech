@@ -1,0 +1,44 @@
+## 汉化者= 233Isaac
+
+item.ItemSlingshot.name=弹弓
+item.ItemHardStone.name=坚硬石子
+item.ItemSharpStone.name=锋利石子
+item.ItemSoftStone.name=软石子
+item.ItemWoodenClub.name=木棒
+item.Brick.Clay Brick.name=粘土砖
+item.Brick.Ceramic Brick.name=红砖
+
+#=======
+#= GUI =
+#=======
+
+
+#===========
+#= Strings =
+#===========
+
+
+#========
+#= Misc =
+#========
+fluid.basePotashLiquor=钾碱水
+fluid.waste=废液
+tile.WoodenPressWet.Wet.name=压纸器(湿)
+tile.WoodenPressWet.Dry.name=压纸器(干)
+item.ItemWoodenPress.name=压纸器
+item.ItemWoodenTwig.name=木枝
+item.PowderAsh.name=灰烬
+item.ItemCelluloseFibers.name=造纸纤维
+item.ItemLeatherBelt.name=皮带
+item.WoodenBucket_BasePotashLiquor.name=木桶(钾碱水)
+#== Creative Tabs ==
+
+
+#=========
+#= WAILA =
+#=========
+
+#== Tooltips ==
+
+
+#== Options ==
